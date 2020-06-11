@@ -1,0 +1,23 @@
+{
+  "fintechProject1App": {
+    "q": {
+      "home": {
+        "title": "QS",
+        "createLabel": "Créer un nouveau Q",
+        "createOrEditLabel": "Créer ou éditer un Q",
+        "search": "Recherche pour Q",
+        "notFound": "Aucun Q trouvé"
+      },
+      "created": "Un nouveau Q a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Q avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Q avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Q {{ id }} ?"
+      },
+      "detail": {
+        "title": "Q"
+      },
+      "countryName": "Country Name"
+    }
+  }
+}
